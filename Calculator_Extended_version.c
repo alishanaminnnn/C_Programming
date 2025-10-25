@@ -1,3 +1,9 @@
+/*
+This C program is a basic calculator that performs arithmetic operations: addition, subtraction, multiplication, division, and modulus. 
+The user is prompted to input two numbers and an operator. Based on the selected operator, the corresponding operation is performed and 
+the result is displayed. After each calculation, the user is given the option to perform another calculation or exit the program.
+*/
+
 #include<stdio.h>
 int main(){
 
